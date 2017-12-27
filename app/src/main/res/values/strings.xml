@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CMB Team App</string>
+    <string name="teamphoto">teamPhoto</string>
+    <string name="name">Name</string>
+    <string name="title">Title</string>
+    <string name="bio">Bio</string>
+    <string name="show_list_view">Show List View</string>
+    <string name="show_grid_view">Show Grid View</string>
+    <string name="infophoto">infoPhoto</string>
+</resources>
